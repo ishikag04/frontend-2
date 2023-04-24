@@ -1,0 +1,53 @@
+.navEle{
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+    font-style: ubuntu;
+}
+.navelements{
+    margin-top: 4px;
+    margin-left: 3px;
+    background-color: lightblue;
+    height: 50px;
+}
+#Jphoto{
+    display: grid;
+    /* align-items: flex-start; */
+    justify-items: left;
+}
+#title{
+    display: grid;
+    /* align-items: flex-end; */
+    justify-items: right;
+    color: red;
+}
+#info{
+    display: grid;
+    align-items: right;
+}
+.mov1 {
+    margin-left: 20%;
+    margin-right: 5%;
+    border: 3px solid red;
+    border-radius: 10%;
+    height: 280px;
+    width: 900px;
+    white-space: break-spaces;
+    overflow: scroll;
+    border-style: solid;
+    border-color: red;
+}
+
+h3 {
+    font-size: x-large;
+    position: relative;
+    bottom: 300px;
+    left: 35%;
+    color: red;
+}
+
+p {
+    position: relative;
+    bottom: 280px;
+    left: 35%;
+}
